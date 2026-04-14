@@ -44,10 +44,7 @@ MAFIA TOOL is a powerful Facebook account security testing tool designed for edu
 
 💰 PRICING
 
-Plan Days Price
-Basic 7 Days $5
-Standard 10 Days $10
-Premium 30 Days $15
+Free
 
 ---
 
@@ -123,41 +120,6 @@ Output Files (Saved in /sdcard/MR-MAFIA/)
 · MAFIA-M2-COOKIE.txt - Cookies (Method 2)
 · MAFIA-CP.txt - Checkpoint accounts
 · OK_COOKIES.txt - All valid cookies
-
----
-
-🔐 LICENSE ACTIVATION
-
-For Users:
-
-1. Run the tool to get your Device ID
-2. Contact admin on WhatsApp
-3. Make payment via:
-   · Binance: 892899115
-   · Bybit: 385422646
-   · Bkash: 01310329198
-4. Receive activation key
-5. Enter key to activate
-
-For Admin:
-
-```python
-# Generate key for customer
-admin_generate_key()
-```
-
----
-
-📞 CONTACT
-
-<p align="center">
-  <a href="https://wa.me/+8801310329198">
-    <img src="https://img.shields.io/badge/WhatsApp-Contact-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
-  </a>
-</p>
-
-· WhatsApp: +8801310329198
-· GitHub: MAFIA-143
 
 ---
 
